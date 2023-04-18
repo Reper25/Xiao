@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+    background-image: url('images/wp9660709-aesthetic-genshin-impact-wallpapers.jpg' ) ;
+    text-align: center;
+    color: wheat ;
+    background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: x-large;
+}
+
+img {
+    width: 45%;
+    border: 5px solid #0bacc8;
+    border-radius: 2%;
+   
+
+}
+
+.bib {
+    color: white;
+}
+
+.lhead {
+    color: cyan;
+}

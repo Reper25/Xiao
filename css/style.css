@@ -1,11 +1,12 @@
 body{
     background-color: aquamarine;
-    background-image: url('images/wp9660709-aesthetic-genshin-impact-wallpapers.jpg' ) ;
+    background-image: url('/images/wp9660709-aesthetic-genshin-impact-wallpapers.jpg' ) ;
     text-align: center;
     color: wheat ;
     background-repeat: no-repeat;
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
     font-size: x-large;
+    background-size: cover;
 }
 
 img {
